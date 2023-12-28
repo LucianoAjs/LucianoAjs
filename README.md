@@ -84,7 +84,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoAjs&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![Snake animation](https://github.com/SesisnandoLRNeto/LucianoAjs/blob/output/github-contribution-grid-snake.svg)
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
+
 
