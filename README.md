@@ -51,7 +51,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I study programming, play games and read technology articles and books.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Luciano-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-silva-18aaa2161/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Luciano-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-silva-18aaa2161/)
 
 
 
